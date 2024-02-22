@@ -1,7 +1,7 @@
 # comparison-sample-models-sd
 Comparsion of euler_a, dpmpp_2m_sde and dpmpp_3m_sde in text2vid with comfyui
 
-| steps/cfg | euler_a_________ | dpmpp_2m_sde | dpmpp_3m_sde | euler___________ | dpmpp_2m | heunpp2 |
+| steps/cfg | euler_a_________ | dpmpp_2m_sde | dpmpp_3m_sde | euler___________ | dpmpp_2m____ | heunpp2 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 10/2.0 | ![GIFS_00001](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/79771ab1-d9a3-4f68-a7ba-24c6c5df49e0) | ![GIFS_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/3cb1608a-c5f0-4ff5-a90b-c26d1a111798) | ![GIFS_00003](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/895ff58c-a72a-4ea4-b8b1-f148fdce6ae4) | ![euler_10_2_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/8954d05a-d353-4ccb-a239-dad9f9ae7cc5) | ![dpmpp_2m_10_2_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/7f5f9c18-c0ed-4fd0-9795-370dea1bd7a2) | --- |
 | 10/4 | ![GIFS_00004](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/1db9afdc-b8b4-4de4-a1df-284e596c03f2) | ![GIFS_00005](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/d98c7133-6c2c-446b-a698-4543eec275a6) | ![GIFS_00006](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/f2f7563f-b3d4-4034-9d1f-be58a449d00c) | ![euler_10_4_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/d74863e1-a4a6-45e3-ada9-2a5b431bfa25) | ![dpmpp_2m_10_4_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/befae2ec-00b8-47c5-9b58-c08c034a564c) | --- |
