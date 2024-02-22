@@ -3,9 +3,9 @@ Comparsion of euler_a, dpmpp_2m_sde and dpmpp_3m_sde in text2vid with comfyui
 
 | steps/cfg | euler_a | dpmpp_2m_sde | dpmpp_3m_sde |
 | --- | --- | --- | --- |
-| 10/2.0 |  |  |
-| 10/4.5 |  |  |
-| 16/3.0 |  |  |
-| 16/5.1 |  |  |
-| 32/6.0 |  |  |
-| 32/4.0 |  |  |
+| 10/2.0 | ![GIFS_00001](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/79771ab1-d9a3-4f68-a7ba-24c6c5df49e0) | ![GIFS_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/3cb1608a-c5f0-4ff5-a90b-c26d1a111798) | ![GIFS_00003](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/895ff58c-a72a-4ea4-b8b1-f148fdce6ae4) |
+| 10/4.5 | ![GIFS_00004](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/1db9afdc-b8b4-4de4-a1df-284e596c03f2) | ![GIFS_00005](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/d98c7133-6c2c-446b-a698-4543eec275a6) | ![GIFS_00006](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/f2f7563f-b3d4-4034-9d1f-be58a449d00c) |
+| 16/3.0 | ![GIFS_00007](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/ec98fb6f-4c67-409d-be70-72acb8af99c2) | ![GIFS_00008](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/7e1f5e11-0685-4262-ac3a-e7c78c9b14a2) | ![GIFS_00009](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/5a10f5fc-365b-4ef0-a6c6-5e4314a2fb5a) |
+| 16/5.1 | ![GIFS_00010](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/50990ba7-3269-4221-9c13-6ba774c7c3c5) | ![GIFS_00011](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/e33c15ee-8153-499e-a6aa-2bb3fdce988c) | ![GIFS_00012](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/74acb380-75bb-4c9c-9b23-da555d55f699) |
+| 32/6.0 | ![GIFS_00013](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/f5f21ff2-6173-4c10-91bb-994ee12253ec) | ![GIFS_00014](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/4e1b5588-aa4d-474e-880b-547faefa61cd) | ![GIFS_00015](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/989c0406-b96d-446f-83a7-6c4060111e37) |
+| 32/4.0 | ![GIFS_00016](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/4cefddea-d595-46c1-9dea-debc09f34c26) | ![GIFS_00017](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/6f1c9d4b-522e-4350-947c-41df32b55d9e) | ![GIFS_00018](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/5dfffc10-5a12-40b3-beb2-906119060b88) |
