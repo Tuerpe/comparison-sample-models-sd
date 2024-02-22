@@ -1,7 +1,7 @@
 # comparison-sample-models-sd
 Comparsion of euler_a, dpmpp_2m_sde and dpmpp_3m_sde in text2vid with comfyui
 
-| steps/cfg | euler_a | dpmpp_2m_sde | dpmpp_3m_sde | euler | dpmpp_2m | heunpp2 |
+| steps/cfg | euler_a_________ | dpmpp_2m_sde | dpmpp_3m_sde | euler___________ | dpmpp_2m | heunpp2 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 10/2.0 | ![GIFS_00001](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/79771ab1-d9a3-4f68-a7ba-24c6c5df49e0) | ![GIFS_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/3cb1608a-c5f0-4ff5-a90b-c26d1a111798) | ![GIFS_00003](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/895ff58c-a72a-4ea4-b8b1-f148fdce6ae4) | ![euler_10_2_00002](https://github.com/Tuerpe/comparison-sample-models-sd/assets/73192339/8954d05a-d353-4ccb-a239-dad9f9ae7cc5)
  | --- | --- |
